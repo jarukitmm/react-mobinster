@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "214262655833",
+    "firebase_url": "https://mobinster-dev.firebaseio.com",
+    "project_id": "mobinster-dev",
+    "storage_bucket": "mobinster-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214262655833:android:988641ce420480b9",
+        "android_client_info": {
+          "package_name": "com.mobinster.mobinsterDev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214262655833-kbk5kl6rf8ucfflaibcpmcbdod5j4tci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobinster.mobinsterDev",
+            "certificate_hash": "b132588fb1e4acaca6121d506bba1bff3d77ae5d"
+          }
+        },
+        {
+          "client_id": "214262655833-scfiqmho0s1ppfg0eaab0d4jjm1g96jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobinster.mobinsterDev",
+            "certificate_hash": "df3890e2087fd074cb8635acca89ddd906ab1e76"
+          }
+        },
+        {
+          "client_id": "214262655833-e0i2a2s55f661vbi29idq3drtmlpd08q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobinster.mobinsterDev",
+            "certificate_hash": "246c1ef292881783acc9fe592a409524abd8746f"
+          }
+        },
+        {
+          "client_id": "214262655833-b35fi5n4u07sgun2o1lnktg0051q1htm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobinster.mobinsterDev",
+            "certificate_hash": "9fe6c56d317e113233abcb96aa0f7f43014d344a"
+          }
+        },
+        {
+          "client_id": "214262655833-9m3s8g71hf8kq07goppr0rjmden865ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35s6JZnXwtzhWhglabn-9b55VsEeHBIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214262655833-9m3s8g71hf8kq07goppr0rjmden865ib.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214262655833-2ukuhk03rd5iv4mm22hhh2jnfv1oa26e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobinster.mobinsterDev"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
