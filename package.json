@@ -7,7 +7,7 @@
     "android": "expo run-android"
   },
   "dependencies": {
-    "expo": "^32.0.0",
+    "expo": "^46.0.16",
     "expo-facebook": "^4.0.0",
     "expokit": "^32.0.7",
     "react": "16.5.0",
